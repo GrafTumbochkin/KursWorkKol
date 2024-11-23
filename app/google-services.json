@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "878888510328",
+    "project_id": "activ-29cda",
+    "storage_bucket": "activ-29cda.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878888510328:android:40b98a60ed5cba61c31e8d",
+        "android_client_info": {
+          "package_name": "com.example.kursworkkol"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfif6zLkbba_GgMu5klXxRlXlGC99Yweg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
